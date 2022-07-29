@@ -1,0 +1,14 @@
+body {
+  background-color: #222;
+  padding-top: 50px;
+}
+
+#container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card img {
+  border-radius: 8px;
+  max-width: calc(90vw / 4);
+}
